@@ -1,0 +1,2 @@
+Uses examples from SDL to play audio. Requires SDL3 is installed to compile
+gcc load-wav.c -o load-wav -lSDL3
